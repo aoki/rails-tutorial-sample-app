@@ -15,5 +15,6 @@ doc/
 *~
 .project
 .DS_Store
-.idea
 .secret
+**/.idea/workspace.xml
+**/.idea/tasks.xml
